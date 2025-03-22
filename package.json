@@ -1,5 +1,5 @@
 {
-  "name": "meuprimeiroapprn",
+  "name": "marcacaoDeConsultasMedicas",
   "license": "0BSD",
   "version": "1.0.0",
   "main": "index.ts",
@@ -32,7 +32,7 @@
   "devDependencies": {
     "@babel/core": "^7.25.2",
     "@types/react": "~18.3.12",
-    "@types/react-native-elements": "^0.16.4",
+    "@types/react-native-elements": "^0.18.0",
     "typescript": "^5.3.3"
   },
   "private": true
