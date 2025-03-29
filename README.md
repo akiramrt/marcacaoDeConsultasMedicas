@@ -1,0 +1,1 @@
+Para executar o projeto, basta executar: npx expo start
