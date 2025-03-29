@@ -85,4 +85,4 @@ const Email = styled.Text`
   opacity: 0.8;
 `;
 
-export default ProfileScreen; 
+export default ProfileScreen;
